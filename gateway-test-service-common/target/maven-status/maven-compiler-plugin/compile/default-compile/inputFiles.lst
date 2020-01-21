@@ -1,0 +1,16 @@
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/pojo/GetWithoutParams.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/constants/CmnConstants.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/pojo/PrintEveryth.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/constants/ConstantsConfig.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/constants/JwtConstant.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/config/OSinfo.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/enums/ErrorCodeMsg.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/constants/HttpConstant.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/pojo/TokenStruct.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/tk/mybatis/MyMapper.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/config/EPlatform.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/pojo/RequestUser.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/enums/DynamicDataSourceGlobal.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/pojo/ResponseStruct.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/utils/CommonUtils.java
+/Users/zhangzhen/coding/java/guanglian/gateway-test-service/gateway-test-service-common/src/main/java/com/massadobe/means/demo/pojo/GetWithParams.java

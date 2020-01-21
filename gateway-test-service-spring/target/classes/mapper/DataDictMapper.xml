@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.guangl.train.plan.dao.DataDictMapper">
+    <resultMap id="BaseResultMap" type="com.massadobe.means.demo.entity.DataDict">
+        <!--
+          WARNING - @mbg.generated
+        -->
+        <result column="dict_id" jdbcType="BIGINT" property="dictId"/>
+        <result column="map_val" jdbcType="VARCHAR" property="mapVal"/>
+        <result column="map_code" jdbcType="VARCHAR" property="mapCode"/>
+        <result column="dict_name" jdbcType="VARCHAR" property="dictName"/>
+        <result column="dict_type" jdbcType="VARCHAR" property="dictType"/>
+        <result column="is_coal" jdbcType="TINYINT" property="isCoal"/>
+        <result column="initial_hour" jdbcType="DECIMAL" property="initialHour"/>
+        <result column="retrain_hour" jdbcType="DECIMAL" property="retrainHour"/>
+        <result column="dict_sort" jdbcType="INTEGER" property="dictSort"/>
+        <result column="super_id" jdbcType="BIGINT" property="superId"/>
+        <result column="dict_remark" jdbcType="VARCHAR" property="dictRemark"/>
+        <result column="dict_level" jdbcType="INTEGER" property="dictLevel"/>
+        <result column="created_tm" jdbcType="TIMESTAMP" property="createdTm"/>
+        <result column="created_by" jdbcType="BIGINT" property="createdBy"/>
+        <result column="updated_tm" jdbcType="TIMESTAMP" property="updatedTm"/>
+        <result column="updated_by" jdbcType="BIGINT" property="updatedBy"/>
+        <result column="is_enabled" jdbcType="TINYINT" property="isEnabled"/>
+        <result column="is_deleted" jdbcType="TINYINT" property="isDeleted"/>
+    </resultMap>
+</mapper>
